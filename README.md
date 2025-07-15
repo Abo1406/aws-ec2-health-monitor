@@ -57,4 +57,4 @@ Instance i-0a1b2c3d4e5f6g7h8 is running with instance status ok and system statu
 terraform destroy -var-file="secret.tfvars" -var-file="terraform.tfvars" -auto-approve
 ```
 ## License
-MIT License - See LICENSE for details
+Apache-2.0 License - See LICENSE for details
